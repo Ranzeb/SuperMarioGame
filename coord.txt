@@ -1,0 +1,7 @@
+Muro 63 676 48*6
+Uccello: 179 - 559 H,W 19*18
+Tubo medio: 270 1152 33*49
+Mario salta 360 - 0
+Mario muore 389,15       h,w 17,16
+ Mostro muore: 58, 383 19*11
+Nemico 2 149-531 19*18
